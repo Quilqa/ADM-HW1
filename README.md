@@ -6,5 +6,5 @@ This is the GitHub repository of Iliyas Kyrykbayev for the ADM course's homework
 2. In *Submissions.pdf* you can find all the submission I did for the homework tasks.
 
 ## Notes
-1. I didn't realize I was using PyPy2 as a language until the string exercises. Luckily it didn't really matter, just required some work with rewriting raw_input() as input().
+1. I didn't realize I was using PyPy instead of Python 3 as a language until the string exercises. Luckily it didn't really matter, just required some work with rewriting raw_input() as input().
 2. We already used HackerRanks in our bachelor program, but solved only the SQL and Java problems, so no cheating for Python. You can see at the last page some previous submissions.
